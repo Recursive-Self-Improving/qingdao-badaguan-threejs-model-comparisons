@@ -2,6 +2,19 @@
 
 My experiments comparing different models by building Qingdao-Badaguan scenes.
 
+## Prompt
+
+```text
+請把「青岛八大关」做成一個美觀、有氛圍的 three.js 互動虛擬景觀網頁。
+
+要求：
+- 玩家可以用滑鼠/鍵盤自由移動、旋轉視角
+- 有適當的光影與大氣效果
+- 場景要能傳達出該地點的**真實**氛圍
+```
+
+## Results
+
 | how | repo | preview |
 | - | - | - |
 | run a workflow in omp with glm-5.2 high | https://github.com/Recursive-Self-Improving/qingdao-badaguan-threejs-glm-5.2 | https://recursive-self-improving.github.io/qingdao-badaguan-threejs-glm-5.2/ |
