@@ -25,3 +25,4 @@ My experiments comparing different models by building Qingdao-Badaguan scenes.
 | purely using fable-5 xhigh | https://github.com/Recursive-Self-Improving/qingdao-badaguan-threejs-pure-fable-5 | https://recursive-self-improving.github.io/qingdao-badaguan-threejs-pure-fable-5/ |
 | run a dynamic workflow with fable-5 xhigh  | https://github.com/Recursive-Self-Improving/qingdao-badaguan-threejs-fable-5-dynamic-workflow | https://recursive-self-improving.github.io/qingdao-badaguan-threejs-fable-5-dynamic-workflow/ |
 | run a dynamic workflow with fable-5 ultracode  | https://github.com/Recursive-Self-Improving/qingdao-badaguan-threejs-fable-5-ultracode | https://recursive-self-improving.github.io/qingdao-badaguan-threejs-fable-5-ultracode/ |
+| purely using gpt-5.6-sol xhigh | https://github.com/Recursive-Self-Improving/qingdao-badaguan-threejs-gpt-5.6-sol-no-imagegen | https://recursive-self-improving.github.io/qingdao-badaguan-threejs-gpt-5.6-sol-no-imagegen/ |
