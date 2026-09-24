@@ -36,3 +36,4 @@ My experiments comparing different models by building Qingdao-Badaguan scenes.
 | ☑️ using gpt-6-astra ultra in codex | https://github.com/Recursive-Self-Improving/qingdao-badaguan-threejs-gpt-6-astra-ultra-codex | https://recursive-self-improving.github.io/qingdao-badaguan-threejs-gpt-6-astra-ultra-codex/ |
 | ☑️ using gpt-6-astra max in codex | https://github.com/Recursive-Self-Improving/qingdao-badaguan-threejs-gpt-6-astra-max-codex | https://recursive-self-improving.github.io/qingdao-badaguan-threejs-gpt-6-astra-max-codex/ |
 | ☑️ using gpt-6-astra max in omp | https://github.com/Recursive-Self-Improving/qingdao-badaguan-threejs-gpt-6-astra-max-omp | https://recursive-self-improving.github.io/qingdao-badaguan-threejs-gpt-6-astra-max-omp/ |
+| ☑️ using claude-opus-5.5 max in cursor | https://github.com/Recursive-Self-Improving/qingdao-badaguan-threejs-opus-5.5-max-cursor | https://recursive-self-improving.github.io/qingdao-badaguan-threejs-opus-5.5-max-cursor/ |
